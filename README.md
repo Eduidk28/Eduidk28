@@ -48,28 +48,29 @@
 
 ### 🌭 Chancho Fest 2026
 
-Sitio web desarrollado para presentar el evento Chancho Fest 2026, una propuesta gastronómica y cultural realizada en el Parque Samanes de Guayaquil.
+Landing page informativa desarrollada para presentar el evento Chancho Fest 2026, realizado en el Parque Samanes de Guayaquil.
 
-**Características principales:**
+**Tecnologías:** HTML5 y CSS3.
+
+**Características:**
 - Presentación e información del evento.
 - Galería de imágenes.
-- Información sobre gastronomía y experiencias.
+- Información gastronómica y experiencias.
 - Ubicación del evento.
 
-**Repositorio:** [Chancho Fest 2026](https://github.com/Eduidk28/chancho-fest-2026)
+🔗 [Ver repositorio](https://github.com/Eduidk28/chancho-fest-2026)
 
 ### ✈️ Sistema de gestión de vuelos y rutas aéreas
 
-Aplicación desarrollada como proyecto académico de Estructura de Datos, enfocada en la gestión de países, aeropuertos y conexiones aéreas.
+Aplicación académica desarrollada en el curso de Estructura de Datos, enfocada en la administración de países, aeropuertos y conexiones aéreas.
 
-**Características principales:**
+**Características:**
 - Registro de países con aeropuertos.
-- Gestión de aeropuertos.
+- Administración de aeropuertos.
 - Registro de vuelos entre aeropuertos.
 - Cálculo de rutas más cortas entre aeropuertos.
 
-**Repositorio:** [ED_P1_Grupo02](https://github.com/Eduidk28/ED_P1_Grupo02)
-
+🔗 [Ver repositorio](https://github.com/Eduidk28/ED_P1_Grupo02)
 ## 📫 Contacto
 
 - **GitHub:** [Eduidk28](https://github.com/Eduidk28)
