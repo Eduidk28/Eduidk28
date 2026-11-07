@@ -21,3 +21,19 @@
 - Estructuras de datos y algoritmos.
 - Diseño y desarrollo de interfaces.
 - Bases de datos.
+
+🛠️ Tecnologías y herramientas
+
+Lenguajes de programación y desarrollo
+
+
+
+
+
+Bases de datos
+
+
+
+
+Herramientas
+
