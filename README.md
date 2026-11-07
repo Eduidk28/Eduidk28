@@ -65,3 +65,8 @@ Aplicación desarrollada como proyecto académico de Estructura de Datos, enfoca
 
 **Repositorio:** [ED_P1_Grupo02](https://github.com/Eduidk28/ED_P1_Grupo02)
 
+## 📫 Contacto
+
+- **GitHub:** [Eduidk28](https://github.com/Eduidk28)
+- **Universidad:** [ESPOL](https://www.espol.edu.ec/)
+
