@@ -22,20 +22,25 @@
 - Diseño y desarrollo de interfaces.
 - Bases de datos.
 
-🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
 
-Lenguajes de programación y desarrollo
+### Lenguajes de programación
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,html" />
+</p>
 
+### Bases de datos
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
+### Herramientas
 
-Bases de datos
-
-
-
-
-Herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
 
 
 
